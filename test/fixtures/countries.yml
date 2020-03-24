@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  language: MyString
+  about: MyText
+  image_url: MyText
+  rating: 1.5
+  trip_planing: MyText
+  place_to_stay: MyText
+
+two:
+  name: MyString
+  language: MyString
+  about: MyText
+  image_url: MyText
+  rating: 1.5
+  trip_planing: MyText
+  place_to_stay: MyText
